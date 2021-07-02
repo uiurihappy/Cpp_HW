@@ -1,0 +1,70 @@
+1.Complete the assignment an upload to black board within the 
+deadline.
+2.Clearly mention your name and student ID.
+3.Do not copy from other friends. If found 0marks will be given.
+4.Do not submit the blank file. If found will get the demerit point.
+5.Submit all the problems in single file (.docx).
+6.The file should contain the source code along with the output 
+screen.
+7.Use the comment option to explain your code.
+8.The solution should be exactly match to the question.
+9.If you have any question do not hesitate to inbox me.
+10.Note: Evaluation of all the assignments will be done at the end of 
+semester at once.
+
+1. 기한 내에 블랙보드에 업로드할 할당을 완료합니다.
+2. 이름과 학생증을 명확히 언급하세요.
+3. 다른 친구로부터 복사하지 마세요. 발견 시 0마크가 부여됩니다.
+4. 빈 파일은 제출하지 마십시오. 발견하면 벌점을 받는다.
+5. 모든 문제를 단일 파일(.docx)로 제출합니다.
+6. 파일에는 출력 화면과 함께 소스 코드가 포함되어야 합니다.
+7. 코멘트 옵션을 사용하여 코드를 설명하십시오.
+8. 해결 방법은 질문에 정확하게 일치해야 합니다.
+9. 질문이 있으면 주저하지 말고 편지함을 보내 주세요.
+10.참고: 모든 과제에 대한 평가는 한 번에 학기 말에 실시될 것입니다.
+
+Q1. Use Dynamic memory Allocation concept. Assume any condition if needed by yourself.
+• To allocate the memory by using new operator
+• Input the size of array at run time and allocate the memory
+• Also, check whether the memory has been created or not using exceptional handling concept
+• Display the input data
+• Ultimately, deallocated the memory using delete operator
+
+동적 메모리 할당 개념을 사용합니다. 만약 당신이 필요하다면 어떤 조건이라도 가정하세요.
+• 새로운 연산자를 사용하여 메모리를 할당하는 방법
+• 런타임에 어레이의 크기를 입력하고 메모리를 할당합니다.
+• 또한, 특별한 취급 개념을 사용하여 메모리가 생성되었는지 여부
+• 입력 데이터 표시
+• 궁극적으로, 삭제 연산자를 사용하여 메모리 할당 해제
+
+Q2. Use std::array concept to solve the following problem.
+Assume any condition if needed by yourself.
+
+		C++ 	Physics
+Student A	20 	100
+Student B	70 	36
+Student C 	30 	50
+
+▪ 3 students’ C++ and Physics scores
+▪ Declare a 2 dimensional array and initialize it
+▪ Compute the average of C++ and Physics score.
+
+std::array 개념을 사용하여 다음 문제를 해결하십시오.
+만약 당신이 필요하다면 어떤 조건이라도 가정하세요.
+
+▪ 학생 3명 C++ 및 물리 점수
+▪ 2차원 어레이를 선언하고 초기화합니다.
+▪ C++와 물리 점수의 평균을 구한다.
+
+Q3. This program demonstrates reading from one file and writing to 
+a second file. Assume any condition if needed by yourself.
+
+	orginal.txt	 	record.txt
+	I am very happy		I am very happy
+	How are u?		How are u?
+	Have a nice time.		Have a nice time.
+
+Open the file -> Write to the file -> Read the same file -> Write to the other file
+
+이 프로그램은 한 파일에서 읽고 두 번째 파일에 쓰는 방법을 시연합니다. 
+만약 당신이 필요하다면 어떤 조건이라도 가정하세요.
